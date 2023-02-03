@@ -5,3 +5,5 @@ Super rudimentary stupid obj exporter, personally made so I can bring scenes int
 This exports every mesh that is the child of the node the script is attached to, so you can export full scenes
 
 Just attach the script to a node in editor, set the path and name, and press the activate button
+
+Made this over a year ago and I dont plan on ever updating it
