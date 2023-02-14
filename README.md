@@ -1,4 +1,4 @@
-# GodotObjExporter
+# Godot Scene OBJ exporter
 
 Super rudimentary stupid obj exporter, personally made so I can bring scenes into other software for animation. Doesnt export meshes as separate objects nor does it export smoothing groups, material groups or literally any other property you can think of beyond verts and faces
 
